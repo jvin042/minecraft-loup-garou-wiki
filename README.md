@@ -81,3 +81,21 @@ Supprimer le fichier plugins\LoupGarou\config.yml et relancer le serveur.
 - ### J'ai une erreur "Il vous faut le resourcepack pour jouer ! (FAILED_DOWNLOAD)" que faire ?
 
 Il suffit d'aller dans ton menu minecraft multijoueur, puis de cliquer une fois sur ton serveur, et enfin sur le bouton "Modifier", Puis tu peut sélectionner "Activé" pour l'option du ressources pack.
+
+### FAQ - Version Autohébergé de TR1NITY
+
+- ### Mon serveur ne ce lance pas comment faire ?
+
+Supprimé et réinstaller Java et redémarrer votre ordinateur.
+
+- ### Mes amis n'arrivent pas à se connecter à mon serveur ?
+
+    - Essayer de désactiver le pare-feu de votre ordinateur.
+    - Vérifier les ports ouvert sur votre routeur.
+    - Vous n'avez peut-être pas d'adresse IP publique fixe.
+
+- ### Quelle est l'adresse IP à donner à mes amis ?
+    
+    Il faut donner l'adresse IP v4 vous pouvez l'obtenir sur ce site web :
+    [https://ip.lafibre.info/](https://ip.lafibre.info/)
+
