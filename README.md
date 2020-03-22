@@ -62,7 +62,7 @@ N'hésitez pas à proposé vos maps sur ce github : [https://github.com/jvin042/
 
 ## FAQ
 
-- ### Pourquoi la partie ne se lance pas ?
+- ### Pourquoi la partie ne se lance pas ? - Le serveur me dit qu'il n'y a pas assez de points de spawn ?
 
 Il faut taper la commande /lg start <PSEUDO> en mettant le pseudo d'un des joueurs qui sera présent dans la partie. Si cela ne fonctionne toujours pas, c'est parce qu'il n'y a pas suffisamment de rôles pour le nombre de joueurs, il doit y avoir le même nombre de rôles qu'il y aura de joueurs dans la partie. N'oubliez pas de taper /lg joinAll après avoir modifié la liste des rôles.
 
