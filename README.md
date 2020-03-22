@@ -47,7 +47,7 @@ Un tutoriel vidéo est disponible pour l'installé sur votre ordinateur !
 N'hésitez pas à proposé vos maps sur ce github : https://github.com/jvin042/minecraft-loup-garou-maps/
 
 - [config.yml pour la map Village avec spawns prédéfinis](https://github.com/jvin042/minecraft-loup-garou-maps/blob/master/village/config.yml)
-- [config.yml pour la map Medieval avec spawns prédéfinis](https://github.com/jvin042/minecraft-loup-garou-maps/blob/master/medieval/config.yml)
+- [config.yml pour la map Medieval avec spawns prédéfinis](https://github.com/jvin042/minecraft-loup-garou-maps/blob/master/mediaeval/config.yml)
 
 ## Crédits
 
