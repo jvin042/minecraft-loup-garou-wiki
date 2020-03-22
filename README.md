@@ -13,6 +13,8 @@ Github de la documentation : [https://github.com/jvin042/minecraft-loup-garou-wi
 - [Ressources](#ressources)
 - [Crédits](#crédits)
 - [FAQ](#faq)
+- [FAQ - Version autohébergé de TR1NITY](#faq---version-autoh%C3%A9berg%C3%A9-de-tr1nity)
+
 
 ## À propos
 
@@ -60,19 +62,15 @@ N'hésitez pas à proposé vos maps sur ce github : [https://github.com/jvin042/
 
 ### FAQ
 
-- ### J'ai mal placés mes spawns ou je veux utiliser une nouvelle map, comment faire ?
-
-Supprimer le fichier plugins\LoupGarou\config.yml et relancer le serveur.
-
-- ### Puis-je mettre plusieurs fois le même rôle dans une seule partie ?
-
-Cela est possible pour les rôles Loup-Garou, Villageois et Chasseur. D'autres rôles peuvent aussi marcher mais n'ont pas été testés avec plusieurs joueurs ayant ce rôle dans une seule partie. C'est à vos risques et périls.
-
 - ### Pourquoi la partie ne se lance pas ?
 
 Il faut taper la commande /lg start <PSEUDO> en mettant le pseudo d'un des joueurs qui sera présent dans la partie. Si cela ne fonctionne toujours pas, c'est parce qu'il n'y a pas suffisamment de rôles pour le nombre de joueurs, il doit y avoir le même nombre de rôles qu'il y aura de joueurs dans la partie. N'oubliez pas de taper /lg joinAll après avoir modifié la liste des rôles.
 
 Vidéo explicative : [https://youtu.be/q9XjDe1Ao6s?t=240](https://youtu.be/q9XjDe1Ao6s?t=240)
+
+- ### J'ai mal placés mes spawns ou je veux utiliser une nouvelle map, comment faire ?
+
+Supprimer le fichier plugins\LoupGarou\config.yml et relancer le serveur.
 
 - ### J'ai une erreur "an internal error occured while attempting to perform this command" que faire ?
 
@@ -81,6 +79,11 @@ Supprimer le fichier plugins\LoupGarou\config.yml et relancer le serveur.
 - ### J'ai une erreur "Il vous faut le resourcepack pour jouer ! (FAILED_DOWNLOAD)" que faire ?
 
 Il suffit d'aller dans ton menu minecraft multijoueur, puis de cliquer une fois sur ton serveur, et enfin sur le bouton "Modifier", Puis tu peut sélectionner "Activé" pour l'option du ressources pack.
+
+
+- ### Puis-je mettre plusieurs fois le même rôle dans une seule partie ?
+
+Cela est possible pour les rôles Loup-Garou, Villageois et Chasseur. D'autres rôles peuvent aussi marcher mais n'ont pas été testés avec plusieurs joueurs ayant ce rôle dans une seule partie. C'est à vos risques et périls.
 
 ### FAQ - Version autohébergé de TR1NITY
 
