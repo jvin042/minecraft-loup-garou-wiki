@@ -82,9 +82,9 @@ Supprimer le fichier plugins\LoupGarou\config.yml et relancer le serveur.
 
 Il suffit d'aller dans ton menu minecraft multijoueur, puis de cliquer une fois sur ton serveur, et enfin sur le bouton "Modifier", Puis tu peut sélectionner "Activé" pour l'option du ressources pack.
 
-### FAQ - Version Autohébergé de TR1NITY
+### FAQ - Version autohébergé de TR1NITY
 
-- ### Mon serveur ne ce lance pas comment faire ?
+- ### Mon serveur ne se lance pas comment faire ?
 
 Supprimé et réinstaller Java et redémarrer votre ordinateur.
 
