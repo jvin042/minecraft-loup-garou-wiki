@@ -60,7 +60,7 @@ N'hésitez pas à proposé vos maps sur ce github : [https://github.com/jvin042/
 - Développement : [Leomelki](https://twitter.com/leomelki)
 - Mapping : [Cosii](https://www.youtube.com/channel/UCwyOcA41QSk590fl9L0ys8A)
 
-### FAQ
+## FAQ
 
 - ### Pourquoi la partie ne se lance pas ?
 
@@ -80,19 +80,25 @@ Supprimer le fichier plugins\LoupGarou\config.yml et relancer le serveur.
 
 Supprimer le fichier plugins\LoupGarou\config.yml et relancer le serveur.
 
-- ### J'ai une erreur "Il vous faut le resourcepack pour jouer ! (FAILED_DOWNLOAD)" que faire ?
+- ### J'ai une erreur "Il vous faut le ressourcepack pour jouer ! (FAILED_DOWNLOAD)" que faire ?
 
 Il suffit d'aller dans ton menu minecraft multijoueur, puis de cliquer une fois sur ton serveur, et enfin sur le bouton "Modifier", Puis tu peut sélectionner "Activé" pour l'option du ressources pack.
 
 - ### J'ai plusieurs personnes sur la même dalle que faire ?
 
-Vous avez mal définit les spawns des joueurs, si vous utilisez les maps fournis par le mode vous avez dans la partie [Ressources](#ressources) les configs des maps avec les spawns de définit il suffit que copié le fichier de config sur votre serveur.
+Vous avez mal définit les spawns des joueurs, si vous utilisez les maps fournis par le mode vous avez dans la partie [Ressources](#ressources) les configs des maps avec les spawns de définit il suffit que copier le fichier de config sur votre serveur.
+
+- ### Pourquoi je ne suis pas dans le village au départ ?
+
+Au départ vous spawnez en dessous du village, dès que vous lancerez la partie l'ensemble des joueurs seront téléportés sur les spawns du villages.
+
+Vous pouvez vous mettre en créative et fly jusqu'au village.
 
 - ### Puis-je mettre plusieurs fois le même rôle dans une seule partie ?
 
 Cela est possible pour les rôles Loup-Garou, Villageois et Chasseur. D'autres rôles peuvent aussi marcher mais n'ont pas été testés avec plusieurs joueurs ayant ce rôle dans une seule partie. C'est à vos risques et périls.
 
-### FAQ - Version autohébergé de TR1NITY
+## FAQ - Version autohébergé de TR1NITY
 
 - ### Mon serveur ne se lance pas comment faire ?
 
