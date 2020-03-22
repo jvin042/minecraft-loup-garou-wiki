@@ -66,6 +66,10 @@ N'hésitez pas à proposé vos maps sur ce github : [https://github.com/jvin042/
 
 Il faut taper la commande /lg start <PSEUDO> en mettant le pseudo d'un des joueurs qui sera présent dans la partie. Si cela ne fonctionne toujours pas, c'est parce qu'il n'y a pas suffisamment de rôles pour le nombre de joueurs, il doit y avoir le même nombre de rôles qu'il y aura de joueurs dans la partie. N'oubliez pas de taper /lg joinAll après avoir modifié la liste des rôles.
 
+**Nous conseillons de modifié les rôles que depuis le fichier de config de Loup Garou les commandes de chat ne sont pas très fiables !**  
+
+Le fichier ce situe dans plugins\LoupGarou\config.yml et modifié les rôles à votre convenance et de redémarrer votre serveur.
+
 Vidéo explicative : [https://youtu.be/q9XjDe1Ao6s?t=240](https://youtu.be/q9XjDe1Ao6s?t=240)
 
 - ### J'ai mal placés mes spawns ou je veux utiliser une nouvelle map, comment faire ?
@@ -80,6 +84,9 @@ Supprimer le fichier plugins\LoupGarou\config.yml et relancer le serveur.
 
 Il suffit d'aller dans ton menu minecraft multijoueur, puis de cliquer une fois sur ton serveur, et enfin sur le bouton "Modifier", Puis tu peut sélectionner "Activé" pour l'option du ressources pack.
 
+- ### J'ai plusieurs personnes sur la même dalle que faire ?
+
+Vous avez mal définit les spawns des joueurs, si vous utilisez les maps fournis par le mode vous avez dans la partie [Ressources](#ressources) les configs des maps avec les spawns de définit il suffit que copié le fichier de config sur votre serveur.
 
 - ### Puis-je mettre plusieurs fois le même rôle dans une seule partie ?
 
