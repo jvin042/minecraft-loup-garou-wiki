@@ -2,6 +2,8 @@
 
 # Documentation pour le mode Minecraft Loup Garou
 
+Github de la documentation : [https://github.com/jvin042/minecraft-loup-garou-wiki](https://github.com/jvin042/minecraft-loup-garou-wiki)
+
 ## Table des matières
 
 - [À propos](#à-propos)
@@ -10,7 +12,7 @@
 - [Tutoriels vidéos](#tutoriels-vidéos)
 - [Ressources](#ressources)
 - [Crédits](#crédits)
-- [FAQ](#FAQ)
+- [FAQ](#faq)
 
 ## À propos
 
@@ -57,6 +59,7 @@ N'hésitez pas à proposé vos maps sur ce github : [https://github.com/jvin042/
 - Mapping : [Cosii](https://www.youtube.com/channel/UCwyOcA41QSk590fl9L0ys8A)
 
 ### FAQ
+
 - ### J'ai mal placés mes spawns ou je veux utiliser une nouvelle map, comment faire ?
 
 Supprimer le fichier plugins\LoupGarou\config.yml et relancer le serveur.
@@ -69,7 +72,7 @@ Cela est possible pour les rôles Loup-Garou, Villageois et Chasseur. D'autres r
 
 Il faut taper la commande /lg start <PSEUDO> en mettant le pseudo d'un des joueurs qui sera présent dans la partie. Si cela ne fonctionne toujours pas, c'est parce qu'il n'y a pas suffisamment de rôles pour le nombre de joueurs, il doit y avoir le même nombre de rôles qu'il y aura de joueurs dans la partie. N'oubliez pas de taper /lg joinAll après avoir modifié la liste des rôles.
 
-Une vidéo sera prochainement disponible pour expliqué comment lancé une partie.
+Vidéo explicative : [https://youtu.be/q9XjDe1Ao6s?t=240](https://youtu.be/q9XjDe1Ao6s?t=240)
 
 - ### J'ai une erreur "an internal error occured while attempting to perform this command" que faire ?
 
