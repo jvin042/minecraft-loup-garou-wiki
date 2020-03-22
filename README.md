@@ -115,3 +115,7 @@ Supprimé et réinstaller Java et redémarrer votre ordinateur.
     Il faut donner l'adresse IP v4 vous pouvez l'obtenir sur ce site web :
     [https://ip.lafibre.info/](https://ip.lafibre.info/)
 
+- ### J'ai une erreur "Error occurred during initialization of VM Could not reserve enough space"
+
+Vous n'avez pas assez de ram sur votre ordinateur pour hébergé le serveur.
+
