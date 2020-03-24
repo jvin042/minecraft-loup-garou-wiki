@@ -112,7 +112,7 @@ Supprimé et réinstaller Java et redémarrer votre ordinateur.
 
 - ### Quelle est l'adresse IP à donner à mes amis ?
     
-    Il faut donner l'adresse IP v4 vous pouvez l'obtenir sur ce site web :
+    Il faut donner l'adresse IP v4 publique vous pouvez l'obtenir sur ce site web :
     [https://ip.lafibre.info/](https://ip.lafibre.info/)
 
 - ### J'ai une erreur "Error occurred during initialization of VM Could not reserve enough space"
