@@ -29,10 +29,14 @@ Le mode Loup-Garou est un mode inspiré du jeu de société [Les Loups-Garous de
 ## Installation
 
 Suivre le lien suivant : [https://github.com/leomelki/LoupGarou](https://github.com/leomelki/LoupGarou)
- pour installé sur votre serveur !
+pour installé sur votre serveur !
 
-Un tutoriel vidéo est disponible pour l'installé sur votre ordinateur !
 
+Version autohébergé sur votre PC de TR1NITY ( Tutoriels vidéo disponible )
+
+[Map Village](https://github.com/jvin042/minecraft-loup-garou-village)
+
+[Map Medieval](https://github.com/jvin042/minecraft-loup-garou-medieval)
 ## Commandes
 
 `/lg roles` : Retourne la liste des rôles dans la partie  
