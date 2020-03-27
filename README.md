@@ -13,7 +13,7 @@ Github de la documentation : [https://github.com/jvin042/minecraft-loup-garou-wi
 - [Ressources](#ressources)
 - [Crédits](#crédits)
 - [FAQ](#faq)
-- [FAQ - Version autohébergé de TR1NITY](#faq---version-autoh%C3%A9berg%C3%A9-de-tr1nity)
+- [FAQ - Minecraft Loup Garou Assistant](#faq---version-autoh%C3%A9berg%C3%A9-de-tr1nity)
 
 
 ## À propos
@@ -28,15 +28,10 @@ Le mode Loup-Garou est un mode inspiré du jeu de société [Les Loups-Garous de
 
 ## Installation
 
-Suivre le lien suivant : [https://github.com/leomelki/LoupGarou](https://github.com/leomelki/LoupGarou)
-pour installé sur votre serveur !
+Découvrez Minecraft Loup Garou Assistant !
+[https://loup-garou-assistant.tr1nity.ovh/](https://loup-garou-assistant.tr1nity.ovh/)
 
 
-Version autohébergé sur votre PC de TR1NITY ( Tutoriels vidéo disponible )
-
-[Map Village](https://github.com/jvin042/minecraft-loup-garou-village)
-
-[Map Medieval](https://github.com/jvin042/minecraft-loup-garou-medieval)
 ## Commandes
 
 `/lg roles` : Retourne la liste des rôles dans la partie  
@@ -49,14 +44,14 @@ Version autohébergé sur votre PC de TR1NITY ( Tutoriels vidéo disponible )
 
 ## Tutoriels vidéos
 
-- [Créer son serveur sur son ordinateur !](https://www.youtube.com/watch?v=q9XjDe1Ao6s)
+- [Minecraft Loup Garou Assistant](https://youtu.be/QlCka8WrJYU) 
+- [Créer son serveur sur son ordinateur ! (Obsolète)](https://www.youtube.com/watch?v=q9XjDe1Ao6s) 
+
 
 ## Ressources
 
-N'hésitez pas à proposé vos maps sur ce github : [https://github.com/jvin042/minecraft-loup-garou-maps](https://github.com/jvin042/minecraft-loup-garou-maps)
-
-- [config.yml pour la map Village avec spawns prédéfinis](https://github.com/jvin042/minecraft-loup-garou-maps/blob/master/village/config.yml)
-- [config.yml pour la map Medieval avec spawns prédéfinis](https://github.com/jvin042/minecraft-loup-garou-maps/blob/master/mediaeval/config.yml)
+- [config.yml pour la map Village avec spawns prédéfinis](https://raw.githubusercontent.com/jvin042/minecraft-loup-garou-assistant/master/ressources/maps/config-village.yml)
+- [config.yml pour la map Medieval avec spawns prédéfinis](https://raw.githubusercontent.com/jvin042/minecraft-loup-garou-assistant/master/ressources/maps/config-medieval.yml)
 
 ## Crédits
 
@@ -102,7 +97,7 @@ Vous pouvez vous mettre en créative et fly jusqu'au village.
 
 Cela est possible pour les rôles Loup-Garou, Villageois et Chasseur. D'autres rôles peuvent aussi marcher mais n'ont pas été testés avec plusieurs joueurs ayant ce rôle dans une seule partie. C'est à vos risques et périls.
 
-## FAQ - Version autohébergé de TR1NITY
+## FAQ - Minecraft Loup Garou Assistant
 
 - ### Mon serveur ne se lance pas comment faire ?
 
