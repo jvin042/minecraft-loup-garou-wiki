@@ -28,9 +28,15 @@ Le mode Loup-Garou est un mode inspiré du jeu de société [Les Loups-Garous de
 
 ## Installation
 
+<<<<<<< HEAD
 Découvrez Minecraft Loup Garou Assistant !
 [https://loup-garou-assistant.tr1nity.ovh/](https://loup-garou-assistant.tr1nity.ovh/)
+=======
+Suivre le lien suivant : [https://github.com/leomelki/LoupGarou](https://github.com/leomelki/LoupGarou)
+ pour installé sur votre serveur !
+>>>>>>> parent of ec74503... Update README.md
 
+Un tutoriel vidéo est disponible pour l'installé sur votre ordinateur !
 
 ## Commandes
 
