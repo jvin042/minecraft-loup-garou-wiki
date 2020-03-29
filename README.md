@@ -9,11 +9,11 @@ Github de la documentation : [https://github.com/jvin042/minecraft-loup-garou-wi
 - [À propos](#à-propos)
 - [Installation](#installation)
 - [Commandes](#commandes)
-- [Tutoriels vidéos](#tutoriels-vidéos)
+- [Vidéos](#vidéos)
 - [Ressources](#ressources)
 - [Crédits](#crédits)
 - [FAQ](#faq)
-- [FAQ - Version autohébergé de TR1NITY](#faq---version-autoh%C3%A9berg%C3%A9-de-tr1nity)
+- [FAQ - Minecraft Loup Garou Assistant](#faq---version-autoh%C3%A9berg%C3%A9-de-tr1nity)
 
 
 ## À propos
@@ -28,15 +28,10 @@ Le mode Loup-Garou est un mode inspiré du jeu de société [Les Loups-Garous de
 
 ## Installation
 
-Suivre le lien suivant : [https://github.com/leomelki/LoupGarou](https://github.com/leomelki/LoupGarou)
-pour installé sur votre serveur !
+[Découvrez l'outil Minecraft Loup Garou Assistant ! (Installation simplifié)](https://www.youtube.com/watch?v=Ru_DVwe-xSQ)
 
+Lien vers le plugin LoupGarou : [https://github.com/leomelki/LoupGarou](https://github.com/leomelki/LoupGarou)
 
-Version autohébergé sur votre PC de TR1NITY ( Tutoriels vidéo disponible )
-
-[Map Village](https://github.com/jvin042/minecraft-loup-garou-village)
-
-[Map Medieval](https://github.com/jvin042/minecraft-loup-garou-medieval)
 ## Commandes
 
 `/lg roles` : Retourne la liste des rôles dans la partie  
@@ -47,16 +42,17 @@ Version autohébergé sur votre PC de TR1NITY ( Tutoriels vidéo disponible )
 `/lg reloadConfig` : Recharge la configuration  
 `/lg joinAll` : À utiliser après avoir changé les rôles
 
-## Tutoriels vidéos
+## Vidéos
 
-- [Créer son serveur sur son ordinateur !](https://www.youtube.com/watch?v=q9XjDe1Ao6s)
+- [LOUP GAROU MINECRAFT [1/4] - Présentation du logiciel Minecraft Loup Garou Assistant](https://www.youtube.com/watch?v=Ru_DVwe-xSQ)
+- [LOUP GAROU MINECRAFT [2/4] - Configurer sa partie de loup garou !](https://www.youtube.com/watch?v=yzkjvO56kWs)
+- [LOUP GAROU MINECRAFT [3/4] Accès au serveur à vos amis !](https://www.youtube.com/watch?v=FEscKoGYS78)
+- [LOUP GAROU MINECRAFT [4/4] Vous avez vu le super wiki !](https://www.youtube.com/watch?v=PNbmapq6T24)
 
 ## Ressources
 
-N'hésitez pas à proposé vos maps sur ce github : [https://github.com/jvin042/minecraft-loup-garou-maps](https://github.com/jvin042/minecraft-loup-garou-maps)
-
-- [config.yml pour la map Village avec spawns prédéfinis](https://github.com/jvin042/minecraft-loup-garou-maps/blob/master/village/config.yml)
-- [config.yml pour la map Medieval avec spawns prédéfinis](https://github.com/jvin042/minecraft-loup-garou-maps/blob/master/mediaeval/config.yml)
+- [config.yml pour la map Village avec spawns prédéfinis](https://github.com/jvin042/minecraft-loup-garou-assistant/blob/master/ressources/maps/config-village.yml)
+- [config.yml pour la map Medieval avec spawns prédéfinis](https://github.com/jvin042/minecraft-loup-garou-assistant/blob/master/ressources/maps/config-medieval.yml)
 
 ## Crédits
 
@@ -74,7 +70,7 @@ Il faut taper la commande /lg start <PSEUDO> en mettant le pseudo d'un des joueu
 
 Le fichier ce situe dans plugins\LoupGarou\config.yml et modifié les rôles à votre convenance et de redémarrer votre serveur.
 
-Vidéo explicative : [https://youtu.be/q9XjDe1Ao6s?t=240](https://youtu.be/q9XjDe1Ao6s?t=240)
+Vidéo explicative : [https://www.youtube.com/watch?v=yzkjvO56kWs](https://www.youtube.com/watch?v=yzkjvO56kWs)
 
 - ### J'ai mal placés mes spawns ou je veux utiliser une nouvelle map, comment faire ?
 
@@ -102,17 +98,18 @@ Vous pouvez vous mettre en créative et fly jusqu'au village.
 
 Cela est possible pour les rôles Loup-Garou, Villageois et Chasseur. D'autres rôles peuvent aussi marcher mais n'ont pas été testés avec plusieurs joueurs ayant ce rôle dans une seule partie. C'est à vos risques et périls.
 
-## FAQ - Version autohébergé de TR1NITY
-
-- ### Mon serveur ne se lance pas comment faire ?
-
-Supprimé et réinstaller Java et redémarrer votre ordinateur.
+## FAQ - Minecraft Loup Garou Assistant
 
 - ### Mes amis n'arrivent pas à se connecter à mon serveur ?
 
     - Essayer de désactiver le pare-feu de votre ordinateur.
     - Vérifier les ports ouvert sur votre routeur.
     - Vous n'avez peut-être pas d'adresse IP publique fixe.
+
+- ### Quelle est l'adresse IP à donner à mes amis ?
+    
+    Il faut donner l'adresse IP v4 publique vous pouvez l'obtenir sur ce site web :
+    [https://ip.lafibre.info/](https://ip.lafibre.info/)
 
 - ### Quelle est l'adresse IP à donner à mes amis ?
     
