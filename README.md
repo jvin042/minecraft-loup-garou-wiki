@@ -84,6 +84,10 @@ Supprimer le fichier plugins\LoupGarou\config.yml et relancer le serveur.
 
 Il suffit d'aller dans ton menu minecraft multijoueur, puis de cliquer une fois sur ton serveur, et enfin sur le bouton "Modifier", Puis tu peut sélectionner "Activé" pour l'option du ressources pack.
 
+- ### J'ai des erreurs d'éxecution dans la console du serveur ou les plugins ne sont pas reconnu !
+
+Vérifier que vous êtes bien sur la version de Spigot 1.15.1. 
+
 - ### J'ai plusieurs personnes sur la même dalle que faire ?
 
 Vous avez mal définit les spawns des joueurs, si vous utilisez les maps fournis par le mode vous avez dans la partie [Ressources](#ressources) les configs des maps avec les spawns de définit il suffit que copier le fichier de config sur votre serveur.
