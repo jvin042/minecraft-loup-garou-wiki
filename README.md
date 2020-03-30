@@ -13,7 +13,7 @@ Github de la documentation : [https://github.com/jvin042/minecraft-loup-garou-wi
 - [Ressources](#ressources)
 - [Crédits](#crédits)
 - [FAQ](#faq)
-- [FAQ - Minecraft Loup Garou Assistant](#faq---version-autoh%C3%A9berg%C3%A9-de-tr1nity)
+- [FAQ - Minecraft Loup Garou Assistant](#faq---minecraft-loup-garou-assistant)
 
 
 ## À propos
