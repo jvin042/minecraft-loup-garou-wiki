@@ -29,6 +29,8 @@ Le mode Loup-Garou est un mode inspiré du jeu de société [Les Loups-Garous de
 
 [Découvrez l'outil Minecraft Loup Garou Assistant ! (Installation simplifié)](https://www.youtube.com/playlist?list=PLbx_d9aDwIK72R7XXoX_qeTiT1ccKjwr7)
 
+Lien vers Minecraft Loup Garou Assistant : [https://jvin042.github.io/minecraft-loup-garou-assistant](https://jvin042.github.io/minecraft-loup-garou-assistant)
+
 Lien vers le plugin LoupGarou : [https://github.com/leomelki/LoupGarou](https://github.com/leomelki/LoupGarou)
 
 ## Commandes
