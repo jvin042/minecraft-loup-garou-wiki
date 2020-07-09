@@ -1,12 +1,8 @@
-![alt text](banner.jpg)
-
-# Documentation pour le mode Minecraft Loup Garou de Squeezie
+![alt text](https://i.ytimg.com/vi/mgBlmSIZwMU/maxresdefault.jpg)
 
 Dernière mise à jour du wiki le 9 juillet 2020.
 
-Github de la documentation : [https://github.com/jvin042/minecraft-loup-garou-wiki](https://github.com/jvin042/minecraft-loup-garou-wiki)
-
-Github Pages : [https://jvin042.github.io/minecraft-loup-garou-wiki](https://jvin042.github.io/minecraft-loup-garou-wiki)
+Cette documentation n'est pas officielle.
 
 ## Table des matières
 
