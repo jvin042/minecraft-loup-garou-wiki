@@ -1,8 +1,12 @@
 ![alt text](banner.jpg)
 
-# Documentation pour le mode Minecraft Loup Garou
+# Documentation pour le mode Minecraft Loup Garou de Squeezie
+
+Dernière mise à jour du wiki le 9 juillet 2020.
 
 Github de la documentation : [https://github.com/jvin042/minecraft-loup-garou-wiki](https://github.com/jvin042/minecraft-loup-garou-wiki)
+
+Github Pages : [https://jvin042.github.io/minecraft-loup-garou-wiki](https://jvin042.github.io/minecraft-loup-garou-wiki)
 
 ## Table des matières
 
@@ -11,7 +15,6 @@ Github de la documentation : [https://github.com/jvin042/minecraft-loup-garou-wi
 - [Commandes](#commandes)
 - [Vidéos](#vidéos)
 - [Ressources](#ressources)
-- [Crédits](#crédits)
 - [FAQ](#faq)
 - [FAQ - Minecraft Loup Garou Assistant](#faq---minecraft-loup-garou-assistant)
 
@@ -28,7 +31,7 @@ Le mode Loup-Garou est un mode inspiré du jeu de société [Les Loups-Garous de
 
 ## Installation
 
-[Découvrez l'outil Minecraft Loup Garou Assistant ! (Installation simplifié)](https://www.youtube.com/watch?v=Ru_DVwe-xSQ)
+[Découvrez l'outil Minecraft Loup Garou Assistant ! (Installation simplifié)](https://www.youtube.com/playlist?list=PLbx_d9aDwIK72R7XXoX_qeTiT1ccKjwr7)
 
 Lien vers le plugin LoupGarou : [https://github.com/leomelki/LoupGarou](https://github.com/leomelki/LoupGarou)
 
@@ -53,12 +56,6 @@ Lien vers le plugin LoupGarou : [https://github.com/leomelki/LoupGarou](https://
 
 - [config.yml pour la map Village avec spawns prédéfinis](https://github.com/jvin042/minecraft-loup-garou-assistant/blob/master/ressources/maps/config-village.yml)
 - [config.yml pour la map Medieval avec spawns prédéfinis](https://github.com/jvin042/minecraft-loup-garou-assistant/blob/master/ressources/maps/config-medieval.yml)
-
-## Crédits
-
-- Chef de Projet : [Shytoos](https://twitter.com/shytoos_)
-- Développement : [Leomelki](https://twitter.com/leomelki)
-- Mapping : [Cosii](https://www.youtube.com/channel/UCwyOcA41QSk590fl9L0ys8A)
 
 ## FAQ
 
@@ -101,6 +98,18 @@ Vous pouvez vous mettre en créative et fly jusqu'au village.
 - ### Puis-je mettre plusieurs fois le même rôle dans une seule partie ?
 
 Cela est possible pour les rôles Loup-Garou, Villageois et Chasseur. D'autres rôles peuvent aussi marcher mais n'ont pas été testés avec plusieurs joueurs ayant ce rôle dans une seule partie. C'est à vos risques et périls.
+
+- ### Je ne peux casser aucun block sur la map, comment-faire ?
+
+Il vous suffit de désactivé le plugin en supprimant le fichier LoupGarou.jar du dossier, d'effectuer vos modifications et de remettre le fichier LoupGarou.jar.
+
+- ### Est-ce que je peux créer mes propres rôles ?
+
+Le code source du Loup Garou est disponible sur le github de Leomelki il faut pour ça codé votre propre rôle et le soumettre à leomelki pour qu'il accepte. Actuellement aucun rôle n'a été accepté.
+
+- ### Comment avoir les nouveaux rôles ?
+
+Il faut attendre que Leomelki MAJ son plugin avec les nouveaux rôles.
 
 ## FAQ - Minecraft Loup Garou Assistant
 
