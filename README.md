@@ -1,6 +1,6 @@
 ![alt text](https://i.ytimg.com/vi/mgBlmSIZwMU/maxresdefault.jpg)
 
-Dernière mise à jour du wiki le 9 juillet 2020.
+Dernière mise à jour du wiki le 30 octobre 2020.
 
 Cette documentation n'est pas officielle.
 
@@ -45,8 +45,8 @@ Le mode Loup-Garou est un mode inspiré du jeu de société [Les Loups-Garous de
 
 - [LOUP GAROU MINECRAFT [1/4] - Présentation du logiciel Minecraft Loup Garou Assistant](https://www.youtube.com/watch?v=Ru_DVwe-xSQ)
 - [LOUP GAROU MINECRAFT [2/4] - Configurer sa partie de loup garou !](https://www.youtube.com/watch?v=yzkjvO56kWs)
-- [LOUP GAROU MINECRAFT [3/4] Accès au serveur à vos amis !](https://www.youtube.com/watch?v=FEscKoGYS78)
-- [LOUP GAROU MINECRAFT [4/4] Vous avez vu le super wiki !](https://www.youtube.com/watch?v=PNbmapq6T24)
+- [LOUP GAROU MINECRAFT [3/4] - Accès au serveur à vos amis !](https://www.youtube.com/watch?v=FEscKoGYS78)
+- [LOUP GAROU MINECRAFT [4/4] - Vous avez vu le super wiki !](https://www.youtube.com/watch?v=PNbmapq6T24)
 
 ## Ressources
 
